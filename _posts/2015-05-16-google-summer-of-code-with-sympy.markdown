@@ -4,8 +4,9 @@ title: "Google Summer Of Code with SymPy"
 tags:
   - GSoC
   - SymPy
-image: /img/gsoc2015.png
 ---
+
+![GSoC](/img/gsoc2015.png)
 
 Much awaited results of [Google Summer Of Code 2015](http://www.google-melange.com/gsoc/projects/list/google/gsoc2015) are finally out. My project **Improving series package and limits in SymPy** has been selected! I will be working with [SymPy](http://www.sympy.org/en/index.html) under [Python Software Foundation](http://www.python.org/psf).
 
