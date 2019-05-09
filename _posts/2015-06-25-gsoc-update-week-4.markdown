@@ -6,7 +6,7 @@ tags:
   - SymPy
 ---
 
-This week was mostly spent on completing the [rational algorithm](/gsoc-update-week-3/#rational) for computing
+This week was mostly spent on completing the [rational algorithm](/2015-06-16-gsoc-update-week-3/#rational) for computing
 Formal Power Series of a function. It took some time, mainly due to testing.
 
 Rational algorithm is now mostly complete and I have opened 
