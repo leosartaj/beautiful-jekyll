@@ -1,12 +1,9 @@
 ## My Blog
 
-https://leosartaj.github.io
+https://blog.sartajsingh.dev
 
 This repository powers my blog.
 
-## Issues
-.. _issues: https://github.com/leosartaj/leosartaj.github.io/issues
+Feel free to report [issues/suggestions](https://github.com/leosartaj/leosartaj.github.io/issues) or make Pull requests for any fixes/changes.
 
-Feel free to report issues_ or make Pull requests for any fixes/changes.
-
-Credits: Built from https://github.com/daattali/beautiful-jekyll 
+Credits: Built using https://github.com/daattali/beautiful-jekyll
